@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Experiment artefacts
+*.pth
+*.pkl
+*.png
+*.json
+!**/expected_results.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

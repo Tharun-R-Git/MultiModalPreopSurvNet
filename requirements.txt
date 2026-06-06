@@ -1,0 +1,26 @@
+# Core deep learning
+torch>=2.0
+
+# Numerics / data
+numpy
+pandas
+scipy
+scikit-image
+pyarrow
+fastparquet
+
+# Medical imaging I/O
+nibabel
+SimpleITK>=2.4.0
+
+# Radiomics (official PyRadiomics; falls back to a NumPy implementation if absent)
+pyradiomics @ git+https://github.com/AIM-Harvard/pyradiomics.git
+
+# Survival analysis & ML
+scikit-learn
+scikit-survival
+lifelines
+
+# Visualisation & progress
+matplotlib
+tqdm
