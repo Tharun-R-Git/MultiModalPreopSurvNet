@@ -155,10 +155,6 @@ held-out fold:
   environments without PyRadiomics — install PyRadiomics for reproducible
   results.
 
-## Citation
-
-If you use this code, please cite the accompanying paper. _(Citation / BibTeX to
-be added on acceptance.)_
 
 ## License
 
